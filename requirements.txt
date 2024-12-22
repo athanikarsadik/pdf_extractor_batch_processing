@@ -1,0 +1,9 @@
+googletrans==4.0.0-rc1
+openai
+numpy
+streamlit
+pandas
+opencv-python
+langdetect
+PyMuPDF
+openpyxl
